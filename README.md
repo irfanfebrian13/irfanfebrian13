@@ -15,7 +15,7 @@
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<img widht="55%" align="right" alt="irfanfebrian13" src="docs/picture/github-graph.png" />
+<img widht="45%" align="right" alt="irfanfebrian13" src="https://raw.githubusercontent.com/irfanfebrian13/irfanfebrian13/master/docs/picture/github-graph.png" />
 
 - 🏫 I’m now studying at [SMK PGRI 2 GIRI BANYUWANGI](https://www.schoolandcollegelistings.com/ID/Banyuwangi/172484076131254/SMK-PGRI-2-GIRI-Banyuwangi).
 - 🌱 I’m currently learning Python Language.

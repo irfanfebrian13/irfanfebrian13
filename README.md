@@ -17,7 +17,6 @@
 
 <img widht="45%" align="right" alt="irfanfebrian13" src="https://raw.githubusercontent.com/irfanfebrian13/irfanfebrian13/master/docs/picture/github-graph.png" />
 
-- 🏫 I’m now studying at [SMK PGRI 2 GIRI BANYUWANGI](https://www.schoolandcollegelistings.com/ID/Banyuwangi/172484076131254/SMK-PGRI-2-GIRI-Banyuwangi).
 - 🌱 I’m currently learning Python Language.
 - 🤔 I’m looking for help with Search Engine.
 - 😄 Fun fact: I spend time listening to every song.
